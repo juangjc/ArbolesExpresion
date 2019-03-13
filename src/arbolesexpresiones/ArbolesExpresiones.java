@@ -186,19 +186,10 @@ class Nodo
      */
     public static void main(String[] args) {
         
-        Principal principal= new Principal();
-        principal.setVisible(true);
+         
         
         
-        
-        
-        
-        
-        
-        
-        
-        
-        ArbolesExpresiones abo = new ArbolesExpresiones ();
+  ArbolesExpresiones abo = new ArbolesExpresiones ();
           abo.insertar("2");
           abo.insertar("+");
            abo.insertar("4");
